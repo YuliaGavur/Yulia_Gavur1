@@ -1,7 +1,11 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\Yulia_Gavur1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\Kursova_1\\Kursova_1\\Kursova1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,6 +26,38 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "cf3cc9c8-ef4c-405c-ada3-cc25ba988c09",
+        "Display": 0,
+        "X": 161,
+        "Y": 76,
+        "Width": 1198,
+        "Height": 678,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kursova1.txt",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\Kursova_1\\Kursova_1\\Kursova1.txt",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\Kursova_1\\Kursova_1\\Kursova1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T07:34:57.424Z",
+              "EditorCaption": ""
             }
           ]
         }
